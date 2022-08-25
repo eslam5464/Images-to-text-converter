@@ -20,7 +20,7 @@ class Application(Frame):
 
         self.lbl_videoCamNum = Label(self, text="Video camera number: ")
         self.entry_videoCamNum_text = StringVar()
-        self.entry_videoCamNum_text.set("1")
+        self.entry_videoCamNum_text.set("0")
         self.entry_videoCamNum = Entry(self, width=2, textvariable=self.entry_videoCamNum_text)
 
         self.lbl_imageLocation = Label(self, text="Image Location: ")
