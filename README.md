@@ -9,7 +9,7 @@
 - pip install opencv-python
 
 ## Demo
-### Changing the number of the camera depends on how many webcams installed 1, 2, 3 , etc..
+### Changing the number of the camera depends on how many webcams installed 0, 1, 2, 3, etc..
 ![Imgur](https://i.imgur.com/EwCsv6F.png)
 
 ## Output Sample
